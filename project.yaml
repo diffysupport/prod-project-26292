@@ -22,7 +22,7 @@ basic:
 advanced:
     mask: ''
     remove: ''
-    isolate: ''
+    isolate: '#sliding-popup'
     delay: 15
     scroll: true
     headers:
