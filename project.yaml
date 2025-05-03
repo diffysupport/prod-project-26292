@@ -29,7 +29,7 @@ advanced:
         - { header: '', value: '' }
     cookies: ''
     custom_js: ''
-    custom_css: ''
+    custom_css: ".collage-block--tablet-desktop-screen {\n\theight: 600px !important;\n}"
     mock_content:
         - { selector: '', type: title }
     login:
